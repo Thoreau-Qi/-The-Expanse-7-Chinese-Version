@@ -1,1 +1,1 @@
-CC-BY-4.0-DEED
+[CC-BY-4.0-DEED](https://creativecommons.org/licenses/by/4.0/)
