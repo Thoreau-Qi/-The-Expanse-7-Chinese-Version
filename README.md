@@ -4,7 +4,7 @@
 
 
 
-### 该版本与 <u>印象</u>   所译的不同点在于，该版本全文全译，而 <u>[印象](https://github.com/RockyChing/the_expanse)</u>  仅翻译了有限内容。
+### 该版本与 <u>[印象](https://github.com/RockyChing/the_expanse)</u>  所译的不同点在于，该版本全文全译，而 <u>[印象](https://github.com/RockyChing/the_expanse)</u>  仅翻译了有限内容。
 
 
 
